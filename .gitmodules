@@ -1,0 +1,6 @@
+[submodule "LAB4"]
+	path = LAB4
+	url = https://github.com/krista9669/44_simple-platformer.git
+[submodule "LAB5"]
+	path = LAB5
+	url = https://github.com/krista9669/L5_44_employee_payroll_system.git
