@@ -1,10 +1,17 @@
-# SE Lab
+# Software Engineering Lab – PES2UG24CS234
 
-This repository contains Software Engineering Lab assignments.
+This repository contains the lab submissions, implementations, and supporting projects completed as part of the Software Engineering Laboratory course at PES University.
 
-## Labs
-- LAB1
-- LAB2
-- LAB3
-- LAB4: [Simple Platformer](https://github.com/krista9669/44_simple-platformer)
-- LAB5: [Employee Payroll System](https://github.com/krista9669/L5_44_employee_payroll_system)
+## Repository Structure
+
+```text
+SE_lab_PES2UG24CS234/
+│
+├── LAB1/
+├── LAB2/
+├── LAB3/
+├── LAB4/                   
+├── LAB5/                   
+├── LAB6/                   
+├── .gitmodules
+└── README.md
