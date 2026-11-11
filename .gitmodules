@@ -4,6 +4,3 @@
 [submodule "LAB5"]
 	path = LAB5
 	url = https://github.com/krista9669/L5_44_employee_payroll_system.git
-[submodule "LAB6"]
-	path = LAB6
-	url = https://github.com/krista9669/L6_L7_44_scholarship_awards.git
