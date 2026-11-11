@@ -11,7 +11,7 @@ SE_lab_PES2UG24CS234/
 ├── LAB2/
 ├── LAB3/
 ├── LAB4/                   
-├── LAB5/                   
-├── LAB6/                   
+├── LAB5/
+├── LAB6_LAB7/ (combined submodule)
 ├── .gitmodules
 └── README.md
